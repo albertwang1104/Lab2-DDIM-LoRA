@@ -13,3 +13,5 @@ results/
 outputs
 samples/
 .DS_Store
+!weights/
+!weights/*.safetensors
