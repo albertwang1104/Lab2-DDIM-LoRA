@@ -1,0 +1,15 @@
+
+__pycache__/
+*.safetensors
+*.ckpt
+*.bin
+*.pt
+
+*.py[cod]
+*.ipynb_checkpoints
+runs/
+data/
+results/
+outputs
+samples/
+.DS_Store
