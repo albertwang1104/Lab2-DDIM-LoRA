@@ -1,0 +1,1 @@
+https://github.com/albertwang1104/Lab2-DDIM-LoRA/blob/main/task2/weights/naruto_lora.safetensors
